@@ -1,0 +1,121 @@
+{
+  "data_murid": [
+    {
+      "id": "1",
+      "nama": "wahyu ppk",
+      "kelas": "xx",
+      "nik": "450670673",
+      "gender": "Laki-Laki"
+    },
+    {
+      "id": "2",
+      "nama": "elaina",
+      "kelas": "xx",
+      "nik": "450670673",
+      "gender": "Perempuan"
+    },
+    {
+      "id": "3",
+      "nama": "umika",
+      "kelas": "xxa",
+      "nik": "450670673",
+      "gender": "Perempuan"
+    },
+    {
+      "id": "4",
+      "nama": "haruka chan",
+      "kelas": "xx",
+      "nik": "45067067313434",
+      "gender": "Perempuan 2d"
+    },
+    {
+      "id": "b3f9",
+      "nama": "laika",
+      "kelas": "xx",
+      "nik": "45067067313434",
+      "gender": "Perempuan 2d"
+    },
+    {
+      "id": "8400",
+      "nama": "kurumi",
+      "kelas": "xx",
+      "nik": "45687657435",
+      "gender": "perempuan"
+    },
+    {
+      "id": "aba3",
+      "nama": "natsumi",
+      "kelas": "xx",
+      "nik": "45867y4586546",
+      "gender": "perempuan"
+    }
+  ],
+  "user": [
+    {
+      "username": "Wahyu yulianto",
+      "email": "wahyuyulianto073@gmail.com",
+      "password": "wahyuuu09",
+      "id": "9986"
+    },
+    {
+      "id": "79b4",
+      "name": "wahyu",
+      "email": "wahyu@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "666e",
+      "name": "elaina ",
+      "email": "elaina@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "eb34",
+      "name": "wahyu ",
+      "email": "wahyu@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "63d3",
+      "name": "wahyu ",
+      "email": "wahyu@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "ddfb",
+      "name": "wahyu ",
+      "email": "wahyu@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "5e8a",
+      "name": "koto",
+      "email": "kontol@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "b75a",
+      "name": "koto",
+      "email": "kontol@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "1b80",
+      "name": "wahayuyyulianto",
+      "email": "wahyuyulianto@gmail.com",
+      "password": "wahyuuu09"
+    },
+    {
+      "id": "858f",
+      "name": "wahyu",
+      "email": "wahyu@gmailcom",
+      "password": "12345"
+    },
+    {
+      "id": "00d4",
+      "name": "elaina",
+      "email": "elaina@gmail.com",
+      "password": "12345"
+    }
+  ]
+}
